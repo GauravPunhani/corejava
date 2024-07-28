@@ -2,7 +2,7 @@ package com.example.demo;
 
 import java.util.Stack;
 
-public class Test {
+public class TestBracketsBalanced {
     public static void main(String[] args) {
         //Given a String  S="[{(})[]" , find out whether it contains valid paranthesis or not
         String string="[{(})[]";
