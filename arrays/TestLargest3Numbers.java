@@ -1,4 +1,4 @@
-package com.tpex.common.component;
+package com.example.demo.arrays;
 
 public class TestLargest3Numbers {
     public static void main(String[] args) {
